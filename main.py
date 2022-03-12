@@ -2,8 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import re
 
-const int rep = 100000; #repetitions
-
+rep = 100000 #repetitions
 
 ans = [0 for i in range(10)]
 
